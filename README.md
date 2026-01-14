@@ -15,9 +15,13 @@ DevOps 爱好者 | GitHub 新手进阶中 | 专注自动化工具与开源实践
 | [python-fibonacci](https://github.com/j2415f1452l/python-fibonacci) | Python 斐波那契数列计算（AI 辅助开发示例） |
 
 ### 📊 GitHub 数据
-<!-- 稳定版统计卡片 -->
-<img src="https://stats.justsong.cn/api/github?username=j2415f1452l&theme=light" width="400"/>
-<img src="https://stats.justsong.cn/api/top-langs/?username=j2415f1452l&layout=compact&theme=light" width="400"/>
+<!-- 替换后的GitHub统计卡片（稳定版，可直接使用） -->
+<div align="center">
+  <!-- 个人总统计卡片：显示提交数、星星数等核心数据 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=j2415f1452l&theme=light&show_icons=true&count_private=true&hide_border=true" width="48%" />
+  <!-- 语言统计卡片：显示常用编程语言占比 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&theme=light&layout=compact&hide_border=true&langs_count=8" width="48%" />
+</div>
 
 ### 📈 贡献记录
 ![贡献日历](https://github-readme-activity-graph.vercel.app/graph?username=j2415f1452l&theme=light)

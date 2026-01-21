@@ -7,7 +7,9 @@ DevOps 爱好者 | GitHub 新手进阶中 | 专注自动化工具与开源实践
 - 常用工具：Git / GitHub Actions / Homebrew
 - 编程语言：Shell / Python（学习中）
 - 感兴趣方向：DevOps 自动化、开源项目贡献
-
+## 📊 GitHub 统计
+![j2415f1452l's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=tokyonight)
 ### 📁 我的核心仓库
 | 仓库名称 | 功能说明 |
 |----------|----------|

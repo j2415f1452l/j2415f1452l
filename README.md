@@ -14,15 +14,13 @@
 | 开发工具   | Git, VS Code, GitHub Actions       |
 | 部署/运维  | Vercel, Docker, Linux              |
 
-### 📊 GitHub 统计
+### 📊 GitHub 核心统计
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-### 🔥 GitHub 提交趋势
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j2415f1452l&theme=tokyonight&hide_border=true" width="97%" />
+  <!-- 主统计卡片（包含私有仓库数据） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="97%" />
+  
+  <!-- 语言分布卡片（紧凑版） -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="97%" style="margin-top: 10px;" />
 </div>
 
 ### 📁 我的核心仓库
@@ -31,10 +29,11 @@
 | [github-readme-stats](https://github.com/j2415f1452l/github-readme-stats) | 复刻的 GitHub 统计卡片工具，用于美化个人主页 | JavaScript, Vercel |
 | [j2415f1452l](https://github.com/j2415f1452l/j2415f1452l) | 个人主页 README 仓库，展示我的技术栈和统计数据 | Markdown |
 
-### 🎖️ 动态徽章
+### 🎖️ 技术徽章墙
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>

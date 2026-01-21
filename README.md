@@ -1,32 +1,40 @@
-# 👋 你好，我是 j2415f1452l
+### 👋 你好，我是 j2415f1452l
+一个热爱编程的开发者，持续学习和探索技术的边界。
 
-### 📌 关于我
-DevOps 爱好者 | GitHub 新手进阶中 | 专注自动化工具与开源实践
+### 📝 关于我
+- 🔭 专注于：后端开发 / 自动化脚本 / 开源项目
+- 🌱 正在学习：Python / Shell 脚本 / GitHub 生态
+- 💬 提问：关于编程、开源、GitHub 技巧都可以交流
+- 📫 联系我：l_jiafeng@126.com
 
-### 🔧 技术栈
-- 常用工具：Git / GitHub Actions / Homebrew
-- 编程语言：Shell / Python（学习中）
-- 感兴趣方向：DevOps 自动化、开源项目贡献
-## 📊 GitHub 统计
-![j2415f1452l's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=tokyonight)
-### 📁 我的核心仓库
-| 仓库名称 | 功能说明 |
-|----------|----------|
-| [homebrew-install](https://github.com/j2415f1452l/homebrew-install) | 基于镜像快速安装 Homebrew（复刻自 ineo6/homebrew-install） |
-| [python-fibonacci](https://github.com/j2415f1452l/python-fibonacci) | Python 斐波那契数列计算（AI 辅助开发示例） |
+### 🛠️ 技术栈
+| 领域       | 技术/工具                          |
+|------------|------------------------------------|
+| 编程语言   | Python, Shell, JavaScript          |
+| 开发工具   | Git, VS Code, GitHub Actions       |
+| 部署/运维  | Vercel, Docker, Linux              |
 
-
-### 📊 GitHub 数据
+### 📊 GitHub 统计
 <div align="center">
-  <!-- 个人数据卡（稳定镜像链接） -->
-  <img src="https://readme-stats.vercel.app/api?username=j2415f1452l&theme=light&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <!-- 语言统计卡 -->
-  <img src="https://readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&theme=light&layout=compact&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-### 📈 贡献记录
-![贡献日历](https://github-readme-activity-graph.vercel.app/graph?username=j2415f1452l&theme=light)
+### 🔥 GitHub 提交趋势
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j2415f1452l&theme=tokyonight&hide_border=true" width="97%" />
+</div>
 
-### ✨ 联系我
-- GitHub：[j2415f1452l](https://github.com/j2415f1452l)
+### 📁 我的核心仓库
+| 仓库名称 | 描述 | 技术栈 |
+|----------|------|--------|
+| [github-readme-stats](https://github.com/j2415f1452l/github-readme-stats) | 复刻的 GitHub 统计卡片工具，用于美化个人主页 | JavaScript, Vercel |
+| [j2415f1452l](https://github.com/j2415f1452l/j2415f1452l) | 个人主页 README 仓库，展示我的技术栈和统计数据 | Markdown |
+
+### 🎖️ 动态徽章
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>

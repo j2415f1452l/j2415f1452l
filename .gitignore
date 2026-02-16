@@ -1,0 +1,15 @@
+# macOS 系统文件（核心：忽略 .DS_Store）
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# 通用无用文件
+*.log
+*.tmp
+*.cache
+
+# 编辑器配置文件
+.vscode/
+.idea/
+*.swp

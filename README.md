@@ -1,30 +1,26 @@
-# 👋 你好，我是 j2415f1452l
+### 👋 关于我
+Hello！我是一名编程学习者，专注于 Python/Shell/JavaScript 等编程语言的练习与实践，持续积累代码能力~
 
-### 📌 关于我
-DevOps 爱好者 | GitHub 新手进阶中 | 专注自动化工具与开源实践
-
-### 🔧 技术栈
-- 常用工具：Git / GitHub Actions / Homebrew
-- 编程语言：Shell / Python（学习中）
-- 感兴趣方向：DevOps 自动化、开源项目贡献
-
-### 📁 我的核心仓库
-| 仓库名称 | 功能说明 |
-|----------|----------|
-| [homebrew-install](https://github.com/j2415f1452l/homebrew-install) | 基于镜像快速安装 Homebrew（复刻自 ineo6/homebrew-install） |
-| [python-fibonacci](https://github.com/j2415f1452l/python-fibonacci) | Python 斐波那契数列计算（AI 辅助开发示例） |
-
-
-### 📊 GitHub 数据
+### 🛠️ 技术栈
 <div align="center">
-  <!-- 个人数据卡（稳定镜像链接） -->
-  <img src="https://readme-stats.vercel.app/api?username=j2415f1452l&theme=light&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <!-- 语言统计卡 -->
-  <img src="https://readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&theme=light&layout=compact&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-### 📈 贡献记录
-![贡献日历](https://github-readme-activity-graph.vercel.app/graph?username=j2415f1452l&theme=light)
+### 📊 GitHub 统计
+<div align="center">
+  <!-- 核心统计卡片（带动画） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=radical&hide_border=true&t=456" alt="GitHub Stats" width="48%" />
+  <!-- 强制刷新语言统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=radical&hide_border=true&t=456" alt="Most Used Languages" width="48%" />
+</div>
 
-### ✨ 联系我
-- GitHub：[j2415f1452l](https://github.com/j2415f1452l)
+### 📈 贡献热力图
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j2415f1452l&theme=radical&hide_border=true&t=456" alt="Contribution Graph" width="100%" />
+</div>
+
+### ✨ 仓库推荐
+- [my-code-practice](https://github.com/j2415f1452l/my-code-practice)：我的编程练习仓库，包含多语言基础代码

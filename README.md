@@ -1,26 +1,38 @@
-### 👋 关于我
-Hello！我是一名编程学习者，专注于 Python/Shell/JavaScript 等编程语言的练习与实践，持续积累代码能力~
+# 👋 Hi, I'm j2415f1452l
 
-### 🛠️ 技术栈
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+> 编程学习者｜专注 Python / Shell / Git / JavaScript
+> 每天写代码，每天进步一点点
 
-### 📊 GitHub 统计
-<div align="center">
-  <!-- 核心统计卡片（带动画） -->
-  <img src="https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=radical&hide_border=true&t=456" alt="GitHub Stats" width="48%" />
-  <!-- 强制刷新语言统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=radical&hide_border=true&t=456" alt="Most Used Languages" width="48%" />
-</div>
+---
 
-### 📈 贡献热力图
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j2415f1452l&theme=radical&hide_border=true&t=456" alt="Contribution Graph" width="100%" />
-</div>
+## 🛠 技能栈
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### ✨ 仓库推荐
-- [my-code-practice](https://github.com/j2415f1452l/my-code-practice)：我的编程练习仓库，包含多语言基础代码
+---
+
+## 📌 正在学习
+- Python 基础与小项目
+- Git & GitHub 使用
+- Shell 脚本自动化
+- 前端入门
+
+---
+
+## 📊 GitHub 统计
+![j2415f1452l's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff&bg_color=000000&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&title_color=3776AB&text_color=ffffff&bg_color=000000&hide_border=true)
+
+---
+
+## 💡 座右铭
+写干净的代码，做持续的进步。
+
+---
+
+## 📫 找到我
+GitHub: [@j2415f1452l](https://github.com/j2415f1452l)

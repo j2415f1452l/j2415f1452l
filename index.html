@@ -3,31 +3,148 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- 网页标题，会显示在浏览器标签栏 -->
-    <title>我的第一个 GitHub 网站</title>
+    <title>我的个人主页 | j2415f1452l</title>
     <style>
-        /* 简单的页面样式，让页面更美观 */
-        body {
-            font-family: "Microsoft YaHei", sans-serif;
-            max-width: 800px;
-            margin: 50px auto;
-            padding: 0 20px;
-            background-color: #f5f5f5;
+        /* 全局样式重置 */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
+
+        /* 页面整体样式 */
+        body {
+            font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* 头像容器 */
+        .avatar {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .avatar img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%; /* 圆形头像 */
+            border: 5px solid #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        /* 个人信息卡片 */
+        .card {
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+        }
+
+        /* 标题样式 */
         h1 {
             color: #2c3e50;
             text-align: center;
+            margin-bottom: 10px;
+            font-size: 28px;
         }
-        p {
+        h2 {
             color: #34495e;
+            margin: 20px 0 15px;
+            font-size: 22px;
+            border-left: 4px solid #3498db;
+            padding-left: 10px;
+        }
+
+        /* 简介文字 */
+        .intro {
+            text-align: center;
+            color: #7f8c8d;
             font-size: 18px;
-            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        /* 技能列表 */
+        .skills {
+            display: flex;
+            flex-wrap: wrap; /* 自动换行，适配手机 */
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .skill-tag {
+            background: #e3f2fd;
+            color: #2196f3;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 14px;
+        }
+
+        /* 联系方式 */
+        .contact a {
+            color: #3498db;
+            text-decoration: none;
+            margin-right: 20px;
+            font-size: 16px;
+        }
+        .contact a:hover {
+            color: #2980b9;
+            text-decoration: underline;
+        }
+
+        /* 适配手机端 */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 24px;
+            }
+            .avatar img {
+                width: 120px;
+                height: 120px;
+            }
+            .skills {
+                justify-content: center;
+            }
         }
     </style>
 </head>
 <body>
-    <h1>欢迎来到我的个人网站！</h1>
-    <p>这是我用 GitHub Pages 搭建的第一个网站 🎉</p>
-    <p>你可以修改这段代码，添加自己的文字、图片、链接等内容。</p>
+    <!-- 头像区域（暂时用占位图，你可以后续替换） -->
+    <div class="avatar">
+        <img src="https://via.placeholder.com/150/3498db/ffffff?text=Me" alt="我的头像">
+    </div>
+
+    <!-- 标题和简介 -->
+    <h1>你好，我是 fsy</h1>
+    <p class="intro">一个正在学习 GitHub Pages 的编程爱好者 🚀</p>
+
+    <!-- 个人简介卡片 -->
+    <div class="card">
+        <h2>关于我</h2>
+        <p>大家好！我正在学习如何用 GitHub Pages 搭建个人网站，这是我的第一个个人主页。</p>
+        <p>我喜欢编程、学习新技术，希望通过这个网站分享我的学习心得和项目经验。</p>
+    </div>
+
+    <!-- 技能卡片 -->
+    <div class="card">
+        <h2>我的技能</h2>
+        <div class="skills">
+            <span class="skill-tag">Python</span>
+            <span class="skill-tag">HTML/CSS</span>
+            <span class="skill-tag">GitHub</span>
+            <span class="skill-tag">持续学习</span>
+        </div>
+    </div>
+
+    <!-- 联系方式卡片 -->
+    <div class="card">
+        <h2>联系方式</h2>
+        <div class="contact">
+            <a href="https://github.com/j2415f1452l" target="_blank">我的 GitHub</a>
+            <a href="mailto:l_jiafeng@126.com">我的邮箱</a>
+        </div>
+    </div>
 </body>
 </html>

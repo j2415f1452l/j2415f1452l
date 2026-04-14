@@ -12,6 +12,11 @@
 ![Git](https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### 📊 GitHub 统计
+![j2415f1452l's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=radical)
+
+### 📈 常用编程语言
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=radical)
 ---
 
 ## 📌 正在学习

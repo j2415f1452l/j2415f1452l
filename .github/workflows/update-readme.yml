@@ -2,7 +2,7 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天凌晨自动更新
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -17,12 +17,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README with GitHub Stats
-        uses: readme-stats/readme-stats-action@v1
+      - name: Generate GitHub Readme Stats
+        uses: github-readme-stats/github-readme-stats@master
         with:
           username: ${{ github.repository_owner }}
           theme: default
           show_icons: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        

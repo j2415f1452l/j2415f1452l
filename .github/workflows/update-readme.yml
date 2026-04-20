@@ -2,7 +2,7 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天凌晨自动更新
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -17,11 +17,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Simple README update
+      - name: Update README with clean timestamp
         run: |
+          # 移除所有旧的 Last updated 行
+          sed -i '/^Last updated:/d' README.md
+          sed -i '/^---$/d' README.md
+          
+          # 添加一行新的时间
           echo -e "\n---\nLast updated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> README.md
+          
+          # 提交
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update README timestamp"
+          git commit -m "chore: update last updated time"
           git push

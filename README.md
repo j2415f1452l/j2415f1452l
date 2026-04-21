@@ -1,45 +1,32 @@
-# 👋 Hi, I'm j2415f1452l
+# 👋 你好，我是 j2415f14521
 
-> 编程学习者｜专注 Python / Shell / Git / JavaScript
-> 每天写代码，每天进步一点点
+写干净的代码，做持续的进步。
 
+---
 
-## 🛠 技能栈
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 📈 GitHub 实时统计
+### 基础数据卡片
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j2415f14521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3776AB&icon_color=3776AB&text_color=ffffff)
 
+### 常用语言排行
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f14521&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3776AB&text_color=ffffff)
 
+### 连续提交打卡
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j2415f14521&theme=tokyonight&hide_border=true&background=000000&stroke=3776AB&ring=3776AB&fire=3776AB&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
 
-
-
-## 📌 正在学习
-- Python 基础与小项目
-- Git & GitHub 使用
-- Shell 脚本自动化
-- 前端入门
-
-
-## 📊 GitHub 统计
-![j2415f1452l's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff&bg_color=000000&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&title_color=3776AB&text_color=ffffff&bg_color=000000&hide_border=true)
-
+---
 
 ## 💡 座右铭
 写干净的代码，做持续的进步。
 
+---
 
-## 📫 找到我
-GitHub: [@j2415f1452l](https://github.com/j2415f1452l)
-
-
-
-
-
-
+## 📬 找到我
+- GitHub: [@j2415f14521](https://github.com/j2415f14521)
+- Followers: ![Followers](https://img.shields.io/github/followers/j2415f14521?style=social)
+- Stars: ![Stars](https://img.shields.io/github/stars/j2415f14521?style=social)
 
 ---
-Last updated: 2026-04-21 02:00:46 UTC
+
+Last updated: 2026-04-21 02:05:08 UTC
+

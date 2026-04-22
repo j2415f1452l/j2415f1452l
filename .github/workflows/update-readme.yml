@@ -7,6 +7,10 @@ on:
   push:
     branches: [ main ]
 
+# 强制使用 Node.js 24 环境
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: write
 
@@ -15,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # 最新版已兼容 Node.js 24
+        uses: actions/checkout@v4
 
       - name: Update README timestamp
         run: |

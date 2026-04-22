@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # 最新稳定版，已兼容新环境
+        uses: actions/checkout@v4  # 最新版已兼容 Node.js 24
 
       - name: Update README timestamp
         run: |

@@ -2,8 +2,8 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 每天 UTC 0点自动更新
-  workflow_dispatch:      # 允许手动触发
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   push:
     branches: [ main ]
 
@@ -15,11 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4  # 最新稳定版，已兼容新环境
 
       - name: Update README timestamp
         run: |
-          # 只更新最后一行的时间，不碰其他内容
           sed -i '/^Last updated:/d' README.md
           sed -i '/^---$/d' README.md
           echo -e "\n---\nLast updated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> README.md

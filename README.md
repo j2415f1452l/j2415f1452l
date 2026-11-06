@@ -5,10 +5,27 @@
 
 ## 📈 GitHub 实时统计
 ### 基础数据卡片
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J2415F1452L&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=3776AB&icon_color=3776AB&text_color=ffffff)
+<p align="center">
+<!-- GitHub Stats 主卡片 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.ljf1122.workers.dev/api?username=j2415f1452l&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=3776AB&icon_color=3776AB&text_color=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.ljf1122.workers.dev/api?username=j2415f1452l&show_icons=true&theme=default&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=j2415f1452l&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=3776AB&icon_color=3776AB&text_color=ffffff">
+</picture>
+
+&nbsp;&nbsp;
+
+<!-- Top Languages 语言统计卡片 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.ljf1122.workers.dev/api/top-langs/?username=j2415f1452l&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=3776AB&text_color=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.ljf1122.workers.dev/api/top-langs/?username=j2415f1452l&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2415f1452l&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=3776AB&text_color=ffffff">
+</picture>
+</p>
+
 
 ### 常用语言排行
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J2415F1452L&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=3776AB&text_color=ffffff)
+
 
 ### 连续提交打卡
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J2415F1452L&theme=radical&hide_border=true&background=000000&stroke=3776AB&ring=3776AB&fire=3776AB&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)

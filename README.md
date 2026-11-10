@@ -50,8 +50,9 @@
 - 访问量：![Profile views](https://komarev.com/ghpvc/?username=J2415F1452L&color=3776AB&style=flat-square)
 
 <!-- GitHub 统计卡片 -->
-<img src="https://github-stats.mintimate.cn/api?username=j2415f1452I&theme=tokyonight" width="400"/>
-<img src="https://github-stats.mintimate.cn/api/top-langs/?username=j2415f1452I&theme=tokyonight" width="400"/>
+<img src="https://github-readme-stats.ljf1122.workers.dev/?username=j2415f1452I&theme=tokyonight" width="400"/>
+<img src="https://github-readme-stats.ljf1122.workers.dev/?username=j2415f1452I&type=top-langs&theme=tokyonight" width="400"/>
+
 
 
 
